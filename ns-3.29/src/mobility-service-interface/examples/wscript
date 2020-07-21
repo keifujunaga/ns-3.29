@@ -1,0 +1,17 @@
+# -*- Mode: python; py-indent-offset: 4; indent-tabs-mode: nil; coding: utf-8; -*-
+
+def build(bld):
+    if not bld.env['ENABLE_EXAMPLES']:
+        return;
+    obj = bld.create_ns3_program('routes-mobility-example', 
+                                 ['core', 'mobility','netanim','mobility-service-interface'])
+    obj.source = 'routes-mobility-example.cc'
+    
+    obj = bld.create_ns3_program('routes-mobility-offline-example', 
+                                 ['core', 'mobility','netanim','mobility-service-interface'])
+    obj.source = 'routes-mobility-offline-example.cc'
+    
+    obj = bld.create_ns3_program('routes-mobility-automatic-example', 
+                                 ['core', 'mobility','netanim','mobility-service-interface'])
+    obj.source = 'routes-mobility-automatic-example.cc'
+

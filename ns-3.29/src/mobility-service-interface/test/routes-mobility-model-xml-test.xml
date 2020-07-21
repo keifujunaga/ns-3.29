@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>Rua S. Tomé</summary>
+  <leg>
+   <step>
+    <travel_mode>DRIVING</travel_mode>
+    <start_location>
+     <lat>41.1806275</lat>
+     <lng>-8.6093507</lng>
+    </start_location>
+    <end_location>
+     <lat>41.1773362</lat>
+     <lng>-8.6091839</lng>
+    </end_location>
+    <polyline>
+     <points>}ajzFlops@tEIb@?tBIzBCdDI</points>
+    </polyline>
+    <duration>
+     <value>41</value>
+     <text>1 min.</text>
+    </duration>
+    <html_instructions>Siga para &lt;b&gt;sul&lt;/b&gt; na &lt;b&gt;Rua S. Tomé&lt;/b&gt; em direção a &lt;b&gt;Rua Ilha Terceira&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>366</value>
+     <text>0,4 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>DRIVING</travel_mode>
+    <start_location>
+     <lat>41.1773362</lat>
+     <lng>-8.6091839</lng>
+    </start_location>
+    <end_location>
+     <lat>41.1769445</lat>
+     <lng>-8.6080910</lng>
+    </end_location>
+    <polyline>
+     <points>kmizFjnps@Fi@VaAh@aBDK</points>
+    </polyline>
+    <duration>
+     <value>20</value>
+     <text>1 min.</text>
+    </duration>
+    <html_instructions>Vire &lt;b&gt;à esquerda&lt;/b&gt; em direção a &lt;b&gt;Rua Conde Avranches&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>102</value>
+     <text>0,1 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <step>
+    <travel_mode>DRIVING</travel_mode>
+    <start_location>
+     <lat>41.1769445</lat>
+     <lng>-8.6080910</lng>
+    </start_location>
+    <end_location>
+     <lat>41.1783724</lat>
+     <lng>-8.6062389</lng>
+    </end_location>
+    <polyline>
+     <points>{jizFpgps@@?@@?A@?@?@?@??A@?@A@A@A?A@??A?A@??A?A?A?A@A?A?A?A?AAA?A?A?A?AA??A?AA??AAAAAAAA?AAA?A?A?A?sBqBKI]_@EEaAcAq@o@CEAA?AAEAG?E@E</points>
+    </polyline>
+    <duration>
+     <value>52</value>
+     <text>1 min.</text>
+    </duration>
+    <html_instructions>Na rotunda, siga pela &lt;b&gt;2.ª&lt;/b&gt; saída para &lt;b&gt;Rua Dr. António Bernardino de Almeida&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>253</value>
+     <text>0,3 km</text>
+    </distance>
+    <maneuver>roundabout-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>DRIVING</travel_mode>
+    <start_location>
+     <lat>41.1783724</lat>
+     <lng>-8.6062389</lng>
+    </start_location>
+    <end_location>
+     <lat>41.1764013</lat>
+     <lng>-8.6038889</lng>
+    </end_location>
+    <polyline>
+     <points>ysizF~{os@LSfDkFrBgDVWRKXGXA</points>
+    </polyline>
+    <duration>
+     <value>28</value>
+     <text>1 min.</text>
+    </duration>
+    <html_instructions>Vire &lt;b&gt;à direita&lt;/b&gt; em direção a &lt;b&gt;Rua Alfredo Allen&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>301</value>
+     <text>0,3 km</text>
+    </distance>
+    <maneuver>turn-right</maneuver>
+   </step>
+   <step>
+    <travel_mode>DRIVING</travel_mode>
+    <start_location>
+     <lat>41.1764013</lat>
+     <lng>-8.6038889</lng>
+    </start_location>
+    <end_location>
+     <lat>41.1758357</lat>
+     <lng>-8.6001632</lng>
+    </end_location>
+    <polyline>
+     <points>ogizFhmos@Cc@Gi@G]G]IWIc@Qe@O_@Ic@AY@SBQFUFQJQPWlBsCR_@JYBKBOD[Aa@</points>
+    </polyline>
+    <duration>
+     <value>38</value>
+     <text>1 min.</text>
+    </duration>
+    <html_instructions>Vire na 1.ª &lt;b&gt;à esquerda&lt;/b&gt; para &lt;b&gt;Rua Júlio Amaral de Carvalho&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>364</value>
+     <text>0,4 km</text>
+    </distance>
+   </step>
+   <step>
+    <travel_mode>DRIVING</travel_mode>
+    <start_location>
+     <lat>41.1758357</lat>
+     <lng>-8.6001632</lng>
+    </start_location>
+    <end_location>
+     <lat>41.1772191</lat>
+     <lng>-8.5995929</lng>
+    </end_location>
+    <polyline>
+     <points>_dizF~uns@g@Cc@KoDwAWI</points>
+    </polyline>
+    <duration>
+     <value>28</value>
+     <text>1 min.</text>
+    </duration>
+    <html_instructions>Vire &lt;b&gt;à esquerda&lt;/b&gt; em direção a &lt;b&gt;Rua Dr. Manuel Pereira da Silva&lt;/b&gt;</html_instructions>
+    <distance>
+     <value>162</value>
+     <text>0,2 km</text>
+    </distance>
+    <maneuver>turn-left</maneuver>
+   </step>
+   <duration>
+    <value>207</value>
+    <text>3 min.</text>
+   </duration>
+   <distance>
+    <value>1548</value>
+    <text>1,5 km</text>
+   </distance>
+   <start_location>
+    <lat>41.1806275</lat>
+    <lng>-8.6093507</lng>
+   </start_location>
+   <end_location>
+    <lat>41.1772191</lat>
+    <lng>-8.5995929</lng>
+   </end_location>
+   <start_address>Rua São Tomé, 4200 Porto, Portugal</start_address>
+   <end_address>Rua Doutor Roberto Frias, 4200 Porto, Portugal</end_address>
+  </leg>
+  <copyrights>Dados do mapa ©2014 Google</copyrights>
+  <overview_polyline>
+   <points>}ajzFlops@xFItBIzBCdDIFi@`AcDFKB?FADGDUGQGEC?wBqBqBsBw@y@AYtD_GrBgDVWRKXGXACc@OgAQu@[iAO_@Ic@?m@Jg@Rc@~BkDR_@JYF[D[Aa@g@Cc@KgEaB</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>41.1758330</lat>
+    <lng>-8.6093507</lng>
+   </southwest>
+   <northeast>
+    <lat>41.1806275</lat>
+    <lng>-8.5995929</lng>
+   </northeast>
+  </bounds>
+ </route>
+</DirectionsResponse>
